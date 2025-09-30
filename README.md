@@ -11,10 +11,10 @@ Il vise à analyser les **pratiques de mobilité** des usagers du campus afin d�
 ##  Organisation du projet
 ```
 ecocampus-mobilite/
-├─ data/ → fichiers CSV/XLSX (résultats bruts du questionnaire)
-├─ powerbi/ → fichiers Power BI (.pbix, .pbit)
-├─ docs/ → documents projet (questionnaire, rapport, sujet)
-└─ README.md → présentation du projet
+├─ data/ - fichiers CSV/XLSX (résultats bruts du questionnaire)
+├─ powerbi/ - fichiers Power BI (.pbix, .pbit)
+├─ docs/ - documents projet (questionnaire, rapport, sujet)
+└─ README.md - présentation du projet
 ```
 
 ##  Outils utilisés
